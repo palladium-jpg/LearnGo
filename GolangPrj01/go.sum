@@ -1,0 +1,4 @@
+github.com/spf13/viper v1.11.0 h1:7OX/1FS6n7jHD1zGrZTM7WtY13ZELRyosK4k93oPr44=
+github.com/spf13/viper v1.11.0/go.mod h1:djo0X/bA5+tYVoCn+C7cAYJGcVn/qYLFTG8gdUsX7Zk=
+xorm.io/xorm v1.3.0 h1:UsVke0wyAk3tJcb0j15gLWv2DEshVUnySVyvcYDny8w=
+xorm.io/xorm v1.3.0/go.mod h1:cEaWjDPqoIusTkmDAG+krCcPcTglqo8CDU8geX/yhko=
